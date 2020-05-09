@@ -30,6 +30,7 @@
               <mainClass>com.mycompany.app.App</mainClass>
             </manifest>
           </archive>
+ <outputDirectory>my_output_path</outputDirectory>
         </configuration>
       </plugin>
     </plugins>
