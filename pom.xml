@@ -30,7 +30,7 @@
               <mainClass>com.mycompany.app.App</mainClass>
             </manifest>
           </archive>
- <outputDirectory>my_output_path</outputDirectory>
+         <outputDirectory>/var/lib/jenkins/mybuilds</outputDirectory>
         </configuration>
       </plugin>
     </plugins>
